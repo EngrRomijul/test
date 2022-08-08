@@ -3,3 +3,4 @@ This is test 2nd line.
 This is test 3rd line.
 This is text 4th line.
 Issus #3 Solved.
+Bug Fixed #4
